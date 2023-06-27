@@ -1,0 +1,4 @@
+hit_id,hit_type,session_id,hit_number,visitor_id,user_id,visit_start_time,visit_start_time2,visit_start_date,hit_datetime,brand,market_code,entrance,exit,interaction,referrer,page_path,event_category,event_label
+1234,PAGE,5,1,1,,20/06/2023,09:20:38,20/06/2023,2023-06-20 09:20:51.913154 UTC,company,XI,1,0,0,,www.company.com,,
+1235,EVENT,5,2,1,,20/06/2023,09:20:40,26/06/2023,2023-06-20 09:20:51.913154 UTC,company,XI,0,0,1,,www.company.com,nav: primary nav bar,VEHICLES (VEHICLES tab)
+1235,EVENT,5,3,1,,20/06/2023,09:21:14,26/06/2023,2023-06-20 09:20:51.913154 UTC,company,XI,0,0,1,,www.company.com,nav: tertiary nav bar,VEHICLE 1 
